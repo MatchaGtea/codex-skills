@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI/UX Design Review"
+  short_description: "Structured website design analysis"
+  default_prompt: "Use $ui-ux-design-review to analyze this website design like a senior UI/UX designer."

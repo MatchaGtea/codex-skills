@@ -1,0 +1,4 @@
+interface:
+  display_name: "Answer Question"
+  short_description: "Guide SIGGRAPH Asia SV essay answers"
+  default_prompt: "Use $answer-question to draft a sincere SIGGRAPH Asia Student Volunteer essay answer."

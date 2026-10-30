@@ -1,0 +1,4 @@
+interface:
+  display_name: "TokenMe Agent"
+  short_description: "Delegate scoped coding tasks through TokenMe"
+  default_prompt: "Use $tokenme-agent to delegate this coding task and verify its result."
